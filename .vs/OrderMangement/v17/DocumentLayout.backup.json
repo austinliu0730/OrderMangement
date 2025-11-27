@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\austinliu\\Desktop\\\u7DF4\u7FD2\\\u7D50\u8A13\u4F5C\u696D\\OrderMangement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48C19240-BB3D-4F92-B8BD-C1DC7549843A}|OrderMangement\\OrderMangement.csproj|c:\\users\\austinliu\\desktop\\\u7DF4\u7FD2\\\u7D50\u8A13\u4F5C\u696D\\ordermangement\\ordermangement\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48C19240-BB3D-4F92-B8BD-C1DC7549843A}|OrderMangement\\OrderMangement.csproj|solutionrelative:ordermangement\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C19240-BB3D-4F92-B8BD-C1DC7549843A}|OrderMangement\\OrderMangement.csproj|C:\\Users\\austinliu\\Desktop\\\u7DF4\u7FD2\\\u7D50\u8A13\u4F5C\u696D\\OrderMangement\\ordermangement\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C19240-BB3D-4F92-B8BD-C1DC7549843A}|OrderMangement\\OrderMangement.csproj|solutionrelative:ordermangement\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1020,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\austinliu\\Desktop\\\u7DF4\u7FD2\\\u7D50\u8A13\u4F5C\u696D\\OrderMangement\\OrderMangement\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "OrderMangement\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\austinliu\\Desktop\\\u7DF4\u7FD2\\\u7D50\u8A13\u4F5C\u696D\\OrderMangement\\OrderMangement\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "OrderMangement\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T01:08:29.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\austinliu\\Desktop\\\u7DF4\u7FD2\\\u7D50\u8A13\u4F5C\u696D\\OrderMangement\\OrderMangement\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OrderMangement\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\austinliu\\Desktop\\\u7DF4\u7FD2\\\u7D50\u8A13\u4F5C\u696D\\OrderMangement\\OrderMangement\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "OrderMangement\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvx0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T01:07:16.611Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 647,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1020,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
