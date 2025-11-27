@@ -14,9 +14,10 @@
 ### 1.1 如何開始
 
 ```
-1. 建立資料庫 OMS_DB
-2. 打開 OMS_DB(資料庫設計).sql -> excute
-3. 執行OrderMangement.sln
+1. git clone https://github.com/TOA-Anakin/udemy-transcript-downloader.git
+2. 建立資料庫 OMS_DB
+3. 打開 OMS_DB(資料庫設計).sql -> excute
+4. 執行OrderMangement.sln
 ```
 
 ```
