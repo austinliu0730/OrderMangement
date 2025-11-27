@@ -20,6 +20,7 @@
 4. 執行OrderMangement.sln
 ```
 
+### 1.2 專案架構
 ```
 OrderMangement/
 ├── Controllers/               # MVC 控制器
